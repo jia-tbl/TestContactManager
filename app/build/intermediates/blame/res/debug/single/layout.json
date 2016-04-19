@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\sms_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calllog_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\calllog_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_me_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\list_say_me_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_he_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\list_say_he_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_view.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\message_list_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_log.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\activity_call_log.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sms.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    }
+]

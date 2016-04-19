@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_calllog_missed_normal.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calllog_missed_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_calllog_incomming_normal.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calllog_incomming_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_calllog_outgoing_nomal.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calllog_outgoing_nomal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_calllog_call_btn.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calllog_call_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\incoming.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\incoming.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\outgoing.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\ContactManager\\app\\src\\main\\res\\drawable-xxhdpi\\outgoing.png"
+    }
+]
