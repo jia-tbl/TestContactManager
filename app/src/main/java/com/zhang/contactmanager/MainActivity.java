@@ -9,6 +9,7 @@ import android.view.View;
 
 import com.zhang.calllog.CallLogActivity;
 import com.zhang.contacts.ContactActivity;
+import com.zhang.progressbar.ProgressAct;
 import com.zhang.sms.SMSActivity;
 
 @SuppressLint({ "HandlerLeak", "UseSparseArrays" })
@@ -30,5 +31,8 @@ public class MainActivity extends Activity {
 
 	public void openSMSActivity(View view) {
 		startActivityForResult(new Intent(this, SMSActivity.class), 0);
+	}
+	public void openSeekBarActivity(View view) {
+		startActivityForResult(new Intent(this, ProgressAct.class), 0);
 	}
 }

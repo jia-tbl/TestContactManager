@@ -1,10 +1,10 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/contact_list_view"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#000000"
-    android:orientation="vertical" >
+<LinearLayout android:id="@+id/contact_list_view"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#000000"
+              android:orientation="vertical">
 
     <Button
         android:layout_width="match_parent"
@@ -12,7 +12,7 @@
         android:onClick="openContact"
         android:text="联系人"
         android:textColor="@android:color/white"
-        android:textSize="24sp" />
+        android:textSize="24sp"/>
 
     <Button
         android:layout_width="match_parent"
@@ -20,7 +20,7 @@
         android:onClick="openCallLog"
         android:text="通话记录"
         android:textColor="@android:color/white"
-        android:textSize="24sp" />
+        android:textSize="24sp"/>
 
     <Button
         android:layout_width="match_parent"
@@ -28,6 +28,13 @@
         android:onClick="openSMSActivity"
         android:text="短信记录"
         android:textColor="@android:color/white"
-        android:textSize="24sp" />
+        android:textSize="24sp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openSeekBarActivity"
+        android:text="SeekBar"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"/>
 
 </LinearLayout>

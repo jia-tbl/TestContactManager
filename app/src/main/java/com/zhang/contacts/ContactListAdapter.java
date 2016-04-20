@@ -45,7 +45,7 @@ public class ContactListAdapter extends BaseAdapter {
 		this.alphaIndexer = new HashMap<String, Integer>();
 
 		for (int i = 0; i < list.size(); i++) {
-			String key = getFristAlpha(list.get(i).getSortKey());
+			String key = getFirstAlpha(list.get(i).getSortKey());
 			if (!alphaIndexer.containsKey(key)) {
 				alphaIndexer.put(key, i);
 			}
@@ -60,7 +60,7 @@ public class ContactListAdapter extends BaseAdapter {
 		alpha.setAlphaIndexer(alphaIndexer);
 	}
 
-	private String getFristAlpha(String str) {
+	private String getFirstAlpha(String str) {
 		if (str == null) {
 			return "#";
 		}
@@ -134,9 +134,9 @@ public class ContactListAdapter extends BaseAdapter {
 		}
 
 		// 当前字母
-		String currentStr = getFristAlpha(contact.getSortKey());
+		String currentStr = getFirstAlpha(contact.getSortKey());
 		// 前面的字母
-		String previewStr = (position - 1) >= 0 ? getFristAlpha(list.get(
+		String previewStr = (position - 1) >= 0 ? getFirstAlpha(list.get(
 				position - 1).getSortKey()) : " ";
 
 		if (!previewStr.equals(currentStr)) {

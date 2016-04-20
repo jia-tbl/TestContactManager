@@ -45,6 +45,10 @@
         <activity
             android:name="com.zhang.messagebox.MessageBoxListActivity"
             android:label="@string/app_name" />
+        <activity
+            android:name="com.zhang.progressbar.ProgressAct"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>
